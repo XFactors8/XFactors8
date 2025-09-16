@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adelin Casez (@XFactors8)
+- 👋 Hi, I’m Adelin Casez
 - 🌱 I’m currently learning Swift to dev app on iOS, MacOS...
-- 👀 I’m interested in muay Thaï, MMA and competitive video games
-- 📫 How to reach me: adelincasez@icloud.com
+- 👀 I’m interested in mobile app development, self improvement and competitive video games
+- 🪂 I love skydiving and pushing my limits
